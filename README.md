@@ -4,7 +4,7 @@
 
 - 👨‍💻 I’m currently looking for **a summer software developer role**
 - 🔭 I'm working on my **epl football predictor ⚽**
-- 🌱 I’m currently learning **about life 😂**
+- 🌱 I’m currently learning **about life**
 - 🥅 Goals for 2024: **Learn more about ML and go to the gym**
 - 💬 Ask me about **anything**
 - 📫 How to reach me: **sam.park7029@gmail.com**
