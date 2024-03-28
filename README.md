@@ -2,11 +2,11 @@
 <h3 align="center">A computer science student at the University of Waterloo.</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif"
 
-- 👨‍💻 I’m currently looking for **a summer Software Developer role**
+- 👨‍💻 I’m currently looking for **a Summer Software Developer Role**
 - 🔭 I'm working on my **EPL Football Predictor ⚽**
 - 🌱 I’m currently learning about **Life**
-- 🥅 Goals for 2024: **Dive deeper into AI/ML and also gym more frequently**
-- 💬 Ask me about **anything**
+- 🥅 Goals for 2024: **Dive deeper into AI/ML and also gym more*
+- 💬 Ask me about **Anything**
 - 📫 How to reach me: **sam.park7029@gmail.com**
 - ⚡ Fun fact: **I once stayed awake for 48 hours**
 
