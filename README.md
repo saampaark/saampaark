@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sam Park</h1>
+<h1 align="center">Hi 👋, I'm Sam Park!</h1>
 <h3 align="center">A computer science student at the University of Waterloo.</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif"
 
-- 👨‍💻 I’m currently looking for **a summer software developer role**
-- 🔭 I'm working on my **epl football predictor ⚽**
-- 🌱 I’m currently learning **about life**
-- 🥅 Goals for 2024: **Learn more about ML and go to the gym**
+- 👨‍💻 I’m currently looking for **a summer Software Developer position**
+- 🔭 I'm working on my **EPL Football Predictor ⚽**
+- 🌱 I’m currently learning about **Life**
+- 🥅 Goals for 2024: **Dive deeper into AI/ML and also gym more frequently**
 - 💬 Ask me about **anything**
 - 📫 How to reach me: **sam.park7029@gmail.com**
 - ⚡ Fun fact: **I once stayed awake for 48 hours**
