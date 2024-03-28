@@ -5,7 +5,7 @@
 - 👨‍💻 I’m currently looking for **a Summer Software Developer Role**
 - 🔭 I'm working on my **EPL Football Predictor ⚽**
 - 🌱 I’m currently learning about **Life**
-- 🥅 Goals for 2024: **Dive deeper into AI/ML and also gym more*
+- 🥅 Goals for 2024: **Dive deeper into AI/ML and gym more frequently**
 - 💬 Ask me about **Anything**
 - 📫 How to reach me: **sam.park7029@gmail.com**
 - ⚡ Fun fact: **I once stayed awake for 48 hours**
