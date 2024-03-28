@@ -2,7 +2,7 @@
 <h3 align="center">A computer science student at the University of Waterloo.</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif"
 
-- 👨‍💻 I’m currently looking for **a summer Software Developer position**
+- 👨‍💻 I’m currently looking for **a summer Software Developer role**
 - 🔭 I'm working on my **EPL Football Predictor ⚽**
 - 🌱 I’m currently learning about **Life**
 - 🥅 Goals for 2024: **Dive deeper into AI/ML and also gym more frequently**
