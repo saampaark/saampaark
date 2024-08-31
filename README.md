@@ -16,7 +16,7 @@
 
 💬 Ask me about **anything**
 
-⚡ Fun fact **the first computer mouse was made of wood**
+⚡ Fun fact **I've stayed up for over 48 hours once**
 
  </div>
  
