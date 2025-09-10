@@ -2,7 +2,7 @@
 
 ---
 
-🎓 I'm currently a 2nd year Computer Science student at the University of Waterloo.
+🎓 I'm currently a 3rd year Computer Science student at the University of Waterloo.
 
 🤝 Feel free to explore my repositories and connect with me:
 
