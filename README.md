@@ -1,5 +1,5 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey, I'm Sam!
-I'm a third-year computer science student at the University of Waterloo. Feel free to connect with me through any of the links below.
+I'm a third-year computer science student at the University of Waterloo. Feel free to connect with me using any of the links below.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sampark01/" target="_blank">
